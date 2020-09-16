@@ -2,9 +2,6 @@
 
 It is a web App that do CRUD operations on a Firebase DB.
 
-<img src="src/AppScreenshots/1.PNG">
-<img src="src/AppScreenshots/2.PNG">
-
 ## Table of content
 
 - Usage.
@@ -12,6 +9,10 @@ It is a web App that do CRUD operations on a Firebase DB.
 - Installation.
 - Contributing.
 - License.
+
+## Screenshots
+<img src="src/AppScreenshots/1.PNG">
+<img src="src/AppScreenshots/2.PNG">
 
 ## Usage
 

@@ -75,7 +75,7 @@ const Contactform = (props) => {
           <input
             type='text'
             className='form-control'
-            placeholder='Full Name'
+            placeholder='Phone Number'
             name='mobile'
             value={values.mobile}
             onChange={handleInputChange}

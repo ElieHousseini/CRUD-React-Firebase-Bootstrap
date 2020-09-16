@@ -2,7 +2,8 @@
 
 It is a web App that do CRUD operations on a Firebase DB.
 
-![](src/AppScreenshots/1.png)
+<img src="src/AppScreenshots/1.PNG">
+<img src="src/AppScreenshots/2.PNG">
 
 ## Table of content
 
